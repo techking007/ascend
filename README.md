@@ -224,6 +224,4 @@ MIT License
 
 ## Contact
 
-- **Project**: IBM SkillsBuild AI-ML Internship
-- **Institution**: Sardar Vallabhbhai Patel Institute of Technology (SVIT)
-- **Focus**: UN SDG 8 - Decent Work and Economic Growth
+- **Email**: itechking007@gmail.com
